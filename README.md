@@ -1,6 +1,5 @@
-# Genetic-Algorithm-for-solving-an-Equation
-I have used Genetic Algorithms for solving Equations. This is done using python.
-
+# Solving a Linear Equation using Genetic Algorithm (Python)
+I have used Genetic Algorithms for solving Equations.
 ## Q: a+2b+3c+4d = 30 using GA find the value of a,b,c and d.
 
 ### step 1 :initialisation
